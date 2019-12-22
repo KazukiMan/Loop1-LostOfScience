@@ -17,20 +17,20 @@
 
 请下载并解压下述文件
 
-`https://github.com/KazukiMan/Loop1-LostOfScience/archive/v0.0.1.zip`
+https://github.com/KazukiMan/Loop1-LostOfScience/archive/v0.0.1.zip
 
 
 ### 第二步：安装java环境
 
 请在下列网站中安装适合的java环境
 
-Windows: `https://javadl.oracle.com/webapps/download/AutoDL?BundleId=240728_5b13a193868b4bf28bcb45c792fce896`
+Windows: https://javadl.oracle.com/webapps/download/AutoDL?BundleId=240728_5b13a193868b4bf28bcb45c792fce896
 
-MacOS: `https://javadl.oracle.com/webapps/download/AutoDL?BundleId=240719_5b13a193868b4bf28bcb45c792fce896`
+MacOS: https://javadl.oracle.com/webapps/download/AutoDL?BundleId=240719_5b13a193868b4bf28bcb45c792fce896
 
-Linux `https://javadl.oracle.com/webapps/download/AutoDL?BundleId=240718_5b13a193868b4bf28bcb45c792fce896`
+Linux https://javadl.oracle.com/webapps/download/AutoDL?BundleId=240718_5b13a193868b4bf28bcb45c792fce896
 
-Linux RPM `https://javadl.oracle.com/webapps/download/AutoDL?BundleId=240717_5b13a193868b4bf28bcb45c792fce896`
+Linux RPM https://javadl.oracle.com/webapps/download/AutoDL?BundleId=240717_5b13a193868b4bf28bcb45c792fce896
 
 
 
