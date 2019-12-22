@@ -17,7 +17,7 @@
 
 请下载并解压下述文件
 
-https://github.com/KazukiMan/Loop1-LostOfScience/archive/v0.0.1.zip
+https://github.com/KazukiMan/Loop1-LostOfScience/archive/v0.0.2.zip
 
 
 ### 第二步：安装java环境
