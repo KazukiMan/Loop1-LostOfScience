@@ -7,9 +7,9 @@
 ### 加入本服务器代表你遵守如下规则
 0. 熊孩子滚粗！！！
 
-1. 没了，以后有了再加
+1. 发现恶作剧基岩堵门的直接ban（堵的是老鼠家门除外）
 
-2. 发现恶作剧基岩堵门的直接ban（堵的是老鼠家门除外）
+2. 没了，以后有了再加
 
 
 
@@ -17,14 +17,22 @@
 
 请下载并解压下述文件
 
-`site`
+`https://github.com/KazukiMan/Loop1-LostOfScience/archive/v0.0.1.zip`
 
 
 ### 第二步：安装java环境
 
 请在下列网站中安装适合的java环境
 
-`site`
+Windows: `https://javadl.oracle.com/webapps/download/AutoDL?BundleId=240728_5b13a193868b4bf28bcb45c792fce896`
+
+MacOS: `https://javadl.oracle.com/webapps/download/AutoDL?BundleId=240719_5b13a193868b4bf28bcb45c792fce896`
+
+Linux `https://javadl.oracle.com/webapps/download/AutoDL?BundleId=240718_5b13a193868b4bf28bcb45c792fce896`
+
+Linux RPM `https://javadl.oracle.com/webapps/download/AutoDL?BundleId=240717_5b13a193868b4bf28bcb45c792fce896`
+
+
 
 
 ### 第三步：安装游戏关联
